@@ -32,7 +32,7 @@ section.redes-sociais img{
     width: 60px;
     height: 60px;
     box-shadow: 2px 3px 6px 1px rgb(0 0 0 / 30%);
-    box-sizing: border-box;
+    box-sizing: border-box; /* faz com que os outros icones não ficam se 'mexendo' quando coloca o mouse em cima */
     margin-top: 30px;
 }
 
